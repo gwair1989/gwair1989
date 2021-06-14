@@ -11,5 +11,4 @@ Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
-![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=CoreData)
 Follow Me

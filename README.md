@@ -2,7 +2,7 @@
 
 ## I'm beginner iOS Developer
 
-Languages and Tools
+### Languages and Tools
 
 ![Xcode](https://img.shields.io/badge/-Xcode-090909?style=for-the-badge&logo=xcode)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
@@ -12,5 +12,10 @@ Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
+![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=CoreData)
 
-Follow Me
+### Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/gwair)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/gwair)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/alexander.halypa/)

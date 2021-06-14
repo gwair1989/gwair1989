@@ -12,10 +12,11 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
-![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=CoreData)
 
 ### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/gwair)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/gwair)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/alexander.halypa/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwair1989&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

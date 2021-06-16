@@ -26,7 +26,7 @@
 [ToDoList-CoreData](https://github.com/gwair1989/ToDoList-CoreData) - The well-known list of tasks is implemented through the CoreData framework with storing data in a SQLite database. 
 UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
 
-[Piano](https://github.com/gwair1989/Piano) - Playing on a well-known musical instrument.AVFoundation. 
+[Piano](https://github.com/gwair1989/Piano) - Playing on a well-known musical instrument. AVFoundation. 
 
 [Water-Timer](https://github.com/gwair1989/Water-Timer) - Water consumption timer.. AVFoundation. SystemSoundID. Dictionary. Timer. 
 

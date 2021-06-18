@@ -1,4 +1,4 @@
-[![Header](https://github.com/gwair1989/gwair1989/blob/main/Assets/Alexander%20Khalypa.png)](https://github.com/gwair1989)
+[![Header](https://github.com/gwair1989/gwair1989/blob/main/Assets/Quotefancy-22528-3840x2160.png)](https://github.com/gwair1989)
 
 ## Hello! My name Alexander. I'm iOS Developer.
 

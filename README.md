@@ -49,6 +49,8 @@ Calculation of the daily intake of calories. In-app purchases give you access to
 
 [Rainfall](https://github.com/gwair1989/Rainfall) - Weather at the current location. MVC. CoreLocation. Codable. Struct. URLSession. JSONDecoder
 
+[Test_Project_for_VertageLab](https://github.com/gwair1989/Test_Project_for_VertageLab) -  Api Google Maps. URLSession. Delegate. NavigationController. UITableView
+
 
 ### My homework while studying.
 [HomeWork-Left-Right](https://github.com/gwair1989/HomeWork-Left-Right)

@@ -51,6 +51,9 @@ Calculation of the daily intake of calories. In-app purchases give you access to
 
 [Test_Project_for_VertageLab](https://github.com/gwair1989/Test_Project_for_VertageLab) -  Api Google Maps. URLSession. Delegate. NavigationController. UITableView
 
+[Test_Project_for_Leadsdoit](https://github.com/gwair1989/Test_Project_for_Leadsdoit) -  UIKit, UserNotifications, AVFoundation, WebKit, Protocol, Yandex AppMetrica SDK, Facebook SDK.
+
+
 
 ### My homework while studying.
 [HomeWork-Left-Right](https://github.com/gwair1989/HomeWork-Left-Right)

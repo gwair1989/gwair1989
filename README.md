@@ -20,7 +20,7 @@
 
 ### You can see my projects here. Here is a brief description of their methods, framework that were used in the process.
 
-[ToDoList-Realm](https://github.com/gwair1989/ToDoList-Realm) - The well-known list of tasks is implemented through the Realm database. UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
+[ToDoList-Realm](https://github.com/gwair1989/ToDoList_Realm/tree/main/ToDoList) - The well-known list of tasks is implemented through the Realm database. UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
 
 [ToDoList-CoreData](https://github.com/gwair1989/ToDoList-CoreData) - The well-known list of tasks is implemented through the CoreData framework with storing data in a SQLite database. 
 UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.

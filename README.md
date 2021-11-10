@@ -11,7 +11,6 @@
 ![Realm](https://img.shields.io/badge/-Realm-090909?style=for-the-badge&logo=Realm)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
 
 ### Follow Me
 
@@ -65,4 +64,3 @@ Calculation of the daily intake of calories. In-app purchases give you access to
 [HomeWork-Math-Operations](https://github.com/gwair1989/HomeWork-Math-Operations)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwair1989&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

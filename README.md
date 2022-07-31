@@ -33,9 +33,6 @@ UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
 
 [BMI-Calculator](https://github.com/gwair1989/BMI-Calculator) - Calculation of BMI with a picture of the category.
 
-[Carbs](https://github.com/gwair1989/Carbs) - 
-Calculation of the daily intake of calories. In-app purchases give you access to your daily intake of proteins, fats, and carbohydrates. MVC. Delegate. Struct.
-
 [Calculator](https://github.com/gwair1989/Calculator) - My version of the static calculator on iPhone. 
 
 [Air-Quality](https://github.com/gwair1989/Air-Quality) - Current Air Quality Observations for Any Point in the World. CoreLocation. МVC. Typealias. Protocol. Class. URLSession. DispatchQueue. Extension. CLLocationManager. 

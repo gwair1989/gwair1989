@@ -25,10 +25,6 @@
 [ToDoList-CoreData](https://github.com/gwair1989/ToDoList-CoreData) - The well-known list of tasks is implemented through the CoreData framework with storing data in a SQLite database. 
 UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
 
-[Piano](https://github.com/gwair1989/Piano) - Playing on a well-known musical instrument. AVFoundation. 
-
-[Water-Timer](https://github.com/gwair1989/Water-Timer) - Water consumption timer.. AVFoundation. SystemSoundID. Dictionary. Timer. 
-
 [Millionaire](https://github.com/gwair1989/Millionaire) - World famous quiz game. MVC. Timer. Struct. 
 
 [BMI-Calculator](https://github.com/gwair1989/BMI-Calculator) - Calculation of BMI with a picture of the category.
@@ -38,10 +34,6 @@ UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
 [Air-Quality](https://github.com/gwair1989/Air-Quality) - Current Air Quality Observations for Any Point in the World. CoreLocation. МVC. Typealias. Protocol. Class. URLSession. DispatchQueue. Extension. CLLocationManager. 
 
 [Sour-Chat](https://github.com/gwair1989/Sour-Chat) - Sour chat for the sweetest. Firebase. UserDefaults. NavigationController. UITableView. Extension. Struct.
-
-[Boost-your-Brain](https://github.com/gwair1989/Boost-your-Brain) - Quiz in mathematics. MVC. AVFoundation. 
-
-[MyEnglishLessons](https://github.com/gwair1989/Piano) - Quiz on learning English. MVC. Delegate. Struct. 
 
 [Rainfall](https://github.com/gwair1989/Rainfall) - Weather at the current location. MVC. CoreLocation. Codable. Struct. URLSession. JSONDecoder
 

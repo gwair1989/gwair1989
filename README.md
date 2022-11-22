@@ -41,6 +41,8 @@ UITableViewController. UIAlertController. UISearchBar. NSPredicate. MVC.
 
 [Test_Project_for_Leadsdoit](https://github.com/gwair1989/Test_Project_for_Leadsdoit) -  UIKit, UserNotifications, AVFoundation, WebKit, Protocol, Yandex AppMetrica SDK, Facebook SDK.
 
+[Test_Project_for_Test_Project_for_EVA](https://github.com/gwair1989/Test_Project_for_EVA) -  UIKit, MVVM, CoreData, Observer pattern, Networking, WaterfallLayout SDK.
+
 
 
 ### My homework while studying.
